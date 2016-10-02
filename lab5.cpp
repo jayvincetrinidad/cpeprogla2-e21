@@ -148,7 +148,7 @@ void problem3(){
 }
 
 main(){
-//	problem2();
+	problem2();
 	problem3();
 }
 
