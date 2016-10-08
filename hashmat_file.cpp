@@ -6,7 +6,7 @@
 using namespace std;
 
 int main(){
-    ifstream f("sample.txt");
+    ifstream f("input.txt");
     int hashmat, opponent;
     while (f >> hashmat >> opponent) {
           cout << abs(hashmat-opponent)<<" \n";      
